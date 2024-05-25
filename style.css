@@ -1,5 +1,14 @@
 th , td{
   padding: 10px;
   align-items: center;
+  border: 1px solid #ffffff3e;
+  border-color: black;
+  
+  
+}
+
+p{
+  font-size: 1.5em;
+
 }
 
